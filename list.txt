@@ -1,0 +1,11 @@
+
+5x PN2222 Transistors
+5x BC547 NPN Transistors
+5x BC557 PNP Transistors
+
+1x Stepper Motor Driver
+1x 74hc595 8 bit Shift Register
+1x MAX7219 Chip (LED Driver)
+1x H-Bridge Motor Driver
+
+1x MPU6050 Accelerometer and Gyroscope Module
